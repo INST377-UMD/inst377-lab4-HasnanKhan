@@ -1,0 +1,14 @@
+body{
+    background-color:lightskyblue
+}
+div{
+    display: inline-block;
+    border: solid white 2px;
+    border-radius: 7px;
+    text-align: center;
+    width: 40%;
+    background-color:blueviolet;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 20px;
+}
